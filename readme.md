@@ -43,7 +43,7 @@ Se quiser rodar o projeto na sua máquina, siga os passos abaixo:
 $ git clone https://github.com/welderqueiros/Meu-to-do
 
 # Entre no diretório do projeto
-$ cd minhas-tarefas
+$ cd Meu-to-do
 
 # Abra o arquivo index.html no navegador
 ```
