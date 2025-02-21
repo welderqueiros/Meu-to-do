@@ -1,0 +1,17 @@
+# Dependências do Node.js
+node_modules/
+ 
+# Arquivos de ambiente (informações sensíveis)
+.env
+
+# Arquivos gerados pelo Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# Logs e cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pasta de build (caso exista futuramente)
+dist/
